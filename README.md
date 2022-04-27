@@ -12,7 +12,7 @@ f
 asdfasf
 asdf
 adsf
-!(codepipeline image)[https://www.sensedeep.com/images/blog/cloudwatch/cloudwatch-dashboard.png]
+![codepipeline image](https://www.sensedeep.com/images/blog/cloudwatch/cloudwatch-dashboard.png)
 
 ## Step 3: Some codes
 ```sh
